@@ -1,0 +1,1 @@
+web: java -jar target/portfolio-backend-0.0.1-SNAPSHOT.jar
